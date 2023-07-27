@@ -26,7 +26,7 @@ function About() {
           <br />
 
           <a
-            href="https://drive.google.com/file/d/1nl9kFSxMg78EWX328wY2w8qe2Egqkie9/view?usp=sharing"
+            href="https://drive.google.com/file/d/1aJueXjRu5-g69XdxgftWnNuI09Wl11MY/view?usp=sharing"
             className="btn"
             target="blank"
             type="button"
@@ -41,7 +41,7 @@ function About() {
 
           <a
             className="navbar-brand"
-            href="https://drive.google.com/file/d/18hKLq9AM8U-AiSKEFD8vRGEPxRubAikm/view?usp=sharing"
+            href="https://drive.google.com/file/d/1XSaN1vwnpU13ncVdSbVJTLFmryHRzq6g/view?usp=sharing"
             target="blank"
             style={{ marginLeft: 30, color: "#1434A4" }}
           >

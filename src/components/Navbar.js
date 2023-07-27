@@ -18,7 +18,7 @@ function Navbar() {
             Projects            
           </a>
           <a
-            href="https://drive.google.com/file/d/1nl9kFSxMg78EWX328wY2w8qe2Egqkie9/view?usp=sharing"
+            href="https://drive.google.com/file/d/1aJueXjRu5-g69XdxgftWnNuI09Wl11MY/view?usp=sharing"
             target="blank"
             className="btn"
             type="button"
