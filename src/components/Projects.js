@@ -1,10 +1,11 @@
 import React from "react";
-import project1 from "../images/project1.PNG";
+
 import project2 from "../images/project2.PNG";
 import project3 from "../images/project3.jpeg";
 import project4 from "../images/project4.PNG";
-import project5 from "../images/project5.jpeg";
 import project6 from "../images/project6.jpg";
+import project7 from "../images/project7.PNG";
+import project8 from "../images/project8.PNG";
 
 function Projects() {
   return (
@@ -14,10 +15,10 @@ function Projects() {
       <div className="project-section1">
         <div className="card" style={{ width: 350, marginLeft: 90 }}>
           <h4 className="card-header" style={{ textAlign: "center" }}>
-            Notes App
+            Smart Connect
           </h4>
           <div className="card-body">
-            <img src={project1} alt="Profile" className="project-img1"></img>
+            <img src={project7} alt="Profile" className="project-img1"></img>
             <p
               className="card-title"
               style={{
@@ -27,10 +28,10 @@ function Projects() {
                 fontSize: 16,
               }}
             >
-              Simple Notes Web Application in React JS
+              Smart Connect is Contact App using which user can save and manage contacts easily and smartly.
             </p>
             <a
-              href="https://github.com/Jayesh352002/Notes-App"
+              href="https://github.com/Jayesh352002/SmartConnect"
               className="btn btn-primary"
               target="blank"
               style={{ marginTop: 30, marginLeft: 55, width: 200 }}
@@ -128,10 +129,10 @@ function Projects() {
 
         <div className="card" style={{ width: 350, marginLeft: 50 }}>
           <h4 className="card-header" style={{ textAlign: "center" }}>
-            Recipe Book App
+            Weather App
           </h4>
           <div className="card-body">
-            <img src={project5} alt="Profile" className="project-img1"></img>
+            <img src={project8} alt="Profile" className="project-img1"></img>
             <p
               className="card-title"
               style={{
@@ -141,10 +142,10 @@ function Projects() {
                 fontSize: 16,
               }}
             >
-              Android application created in Java containing different food recieps
+              This is Weather Application created in angular in integration with Weather API.
             </p>
             <a
-              href="https://github.com/Jayesh352002/FoodRecipe"
+              href="https://github.com/Jayesh352002/WeatherApp"
               className="btn btn-primary"
               target="blank"
               style={{ marginTop: 30, marginLeft: 55, width: 200 }}

@@ -26,7 +26,7 @@ function About() {
           <br />
 
           <a
-            href="https://drive.google.com/file/d/1aJueXjRu5-g69XdxgftWnNuI09Wl11MY/view?usp=sharing"
+            href="https://drive.google.com/file/d/1pSQmML78Dht2CJmPWhT8ivIrYWTi-Uze/view?usp=sharing"
             className="btn"
             target="blank"
             type="button"
